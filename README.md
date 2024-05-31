@@ -1,6 +1,6 @@
 ### Howdy!
 <!-- So I've created the profile readme, now I need to find something to say in it... dilemma, dilemma 🌀🧿 -->
-I'm Liam. I have a keen interest in mathematics and software development, but puzzles and problem solving of all nature intrigues me. I'm passionate about people and understanding how they interact with the world around them through all kinds of systems - digitally, physically, socially. For me, there really isn't anything more rewarding than insights into the complexities and life of another person.
+I'm Liam. I'm soon to graduate with a BSc from [🏫&nbsp;**The University of Melbourne**](https://www.unimelb.edu.au/), majoring in Computing and Software Systems. I have a keen interest in mathematics and software development, but puzzles and problem solving of all nature intrigues me. I'm passionate about people and understanding how they interact with the world around them through all kinds of systems - digitally, physically, socially. For me, there really isn't anything more rewarding than insights into the complexities and life of another person.
 
 Anyway, now that the obligatory introduction is said and done, onto the main course. I realise that my page is a *little* barren right now (apologies for the 21 private repositories) but I'll hopefully be able to delete this line soon.
 
