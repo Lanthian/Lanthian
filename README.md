@@ -8,5 +8,5 @@ If you're an employer or have the ability to employ, I'd love to hear from you. 
 
 Take care of yourself,<br/>
 Liam.
-* Email: liam.anthian@gmail.com
+* Email: liam. anthian @gmail.com
 <!-- Obligatory blank line at end of file B) -->
